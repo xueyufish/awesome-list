@@ -1,6 +1,6 @@
-# Tech Resource
+# Awesome List
 
-My personal reading list.
+Awesome list of interesting topics, including architecture design, programming development, security, AI, and more.
 
 ### Contents
 
