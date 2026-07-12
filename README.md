@@ -22,6 +22,8 @@ Awesome list of interesting topics, including architecture design, programming d
     - [Media Agent](#media-agent)
     - [LLM inference](#llm-inference)
     - [AI Tutorial](#ai-tutorial)
+    - [Model Training](#model-training)
+    - [Articles \& Papers](#articles--papers)
     - [AI Interview](#ai-interview)
   - [Operating System](#operating-system)
     - [Memory](#memory)
@@ -188,6 +190,7 @@ Awesome list of interesting topics, including architecture design, programming d
 * [ragflow: RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs](https://github.com/infiniflow/ragflow)
 * [PageIndex: Document Index for Vectorless, Reasoning-based RAG](https://github.com/VectifyAI/PageIndex)
 * [chroma: Search infrastructure for AI](https://github.com/chroma-core/chroma)
+* [tiny-rag](https://github.com/wdndev/tiny-rag)
 
 ### AI Application
 * [FinceptTerminal: FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.](https://github.com/Fincept-Corporation/FinceptTerminal)
@@ -218,6 +221,7 @@ Awesome list of interesting topics, including architecture design, programming d
 * [TensorRT-LLM: TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.](https://github.com/NVIDIA/TensorRT-LLM)
 
 ### AI Tutorial
+* [minbpe: Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.](https://github.com/karpathy/minbpe)
 * [claude-code-in-action](https://anthropic.skilljar.com/claude-code-in-action)
 * [Transformers快速入门](https://transformers.run/)
 * [llm-cookbook: 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版](https://github.com/datawhalechina/llm-cookbook)
@@ -245,12 +249,42 @@ Awesome list of interesting topics, including architecture design, programming d
 * [Claude-Code-Everything-You-Need-to-Know: A practical Claude Code guide with clear mental models and copy-paste examples — setup, prompt engineering, slash commands, skills, hooks, subagents, agent teams, and MCP servers. Beginner path to power-user depth. Featured in Awesome Claude Code.](https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know)
 * [awesome-claude-skills: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code](https://github.com/travisvn/awesome-claude-skills)
 * [AI 学习知识库](https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)
+* [AI-Compass](https://github.com/tingaicompass/AI-Compass)
+* [Hugging Face Agents Course](https://huggingface.co/learn/agents-course/zh-CN/unit0/introduction)
+* [李宏毅2025《机器学习》](https://www.bilibili.com/video/BV1aiADewEBC/)
+* [生成式人工智能导论2024](https://www.bilibili.com/video/BV1BJ4m1e7g8)
+* [2026李宏毅智能体【AI Agent】系列课程全集](https://www.bilibili.com/video/BV1o3wvzUEDD)
+* [Transformer中的注意力机制：概念与PyTorch代码实现](https://www.bilibili.com/video/BV1AYKpeGEUf)
+* [Transformer大语言模型工作原理](https://www.bilibili.com/video/BV1juNaeREyf)
+* [评估 AI 代理](https://www.bilibili.com/video/BV1HTAHebEuj)
+* [获取大语言模型格式化输出](https://www.bilibili.com/video/BV1EFZUYnE6m)
+* [通过Guardrails实现安全可靠的人工智能](https://www.bilibili.com/video/BV1kEUtY5ELM)
+* [LLMs作为操作系统](https://www.bilibili.com/video/BV1PFmiYiEWn)
+* [多AI智能体实践与高级应用课程](https://www.bilibili.com/video/BV1fgySYsE5y)
+* [ChatGPT提示工程师](https://www.youtube.com/watch?v=gCbHoXL2IcA)
+* [吴恩达Agent智能体教程](https://www.bilibili.com/video/BV1DfrdByE2H)
+
+### Model Training
+* [MiniCPM](https://github.com/OpenBMB/MiniCPM)
+* [tiny-llm-zh: 从零实现一个小参数量中文大语言模型](https://github.com/wdndev/tiny-llm-zh)
+* [llama3-from-scratch-zh: 从零实现一个 llama3 中文版](https://github.com/wdndev/llama3-from-scratch-zh)
+
+### Articles & Papers
+* [The Illustrated GPT-2 (Visualizing Transformer Language Models)](https://jalammar.github.io/illustrated-gpt2/)
+* [The Ultra-Scale Playbook: Training LLMs on GPU Clusters](https://huggingface.co/spaces/nanotron/ultrascale-playbook)
+* [OLMo T, Walsh P, Soldaini L, et al. 2 OLMo 2 Furious[J]. arXiv preprint arXiv:2501.00656, 2024](https://arxiv.org/pdf/2501.00656)
+* [Scaling Laws for LLMs: From GPT-3 to o3](https://cameronrwolfe.substack.com/p/llm-scaling-laws)
+* [人人都能看懂的RL-PPO理论知识](https://zhuanlan.zhihu.com/p/7461863937)
+* [PPO & GRPO 可视化介绍](https://zhuanlan.zhihu.com/p/24374300521)
+* [Prompt-Tuning——深度解读一种新的微调范式](https://zhuanlan.zhihu.com/p/619566088)
 
 ### AI Interview
 * [one-small-step: 这是一个简单的技术科普教程项目，主要聚焦于解释一些有趣的，前沿的技术概念和原理。每篇文章都力求在 5 分钟内阅读完成](https://github.com/karminski/one-small-step)
 * [LLM-Interview-Questions-and-Answers-Hub: 100+ LLM interview questions with answers.](https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub)
 * [LLMInterviewQuestions: This repository contains LLM (Large language model) interview question asked in top companies like Google, Nvidia , Meta , Microsoft & fortune 500 companies.](https://github.com/llmgenai/LLMInterviewQuestions)
 * [LLMForEverybody: 每个人都能看懂的大模型知识分享](https://github.com/luhengshiwo/LLMForEverybody)
+* [llm_interview_note: 主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题](https://github.com/wdndev/llm_interview_note)
+* [ai_interview_note: AI 工程师相关知识及面试题](https://github.com/wdndev/ai_interview_note)
 
 ## Operating System
 ### Memory
