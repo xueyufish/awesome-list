@@ -16,10 +16,12 @@ Awesome list of interesting topics, including architecture design, programming d
     - [Search Agent](#search-agent)
     - [Testing Agent](#testing-agent)
     - [GUI Agent](#gui-agent)
-    - [RAG](#rag)
-    - [AI Application](#ai-application)
-    - [MLOps](#mlops)
     - [Media Agent](#media-agent)
+    - [AI Application](#ai-application)
+    - [RAG](#rag)
+    - [MLOps](#mlops)
+    - [Safety](#safety)
+    - [Evaluation](#evaluation)
     - [LLM inference](#llm-inference)
     - [AI Learning](#ai-learning)
     - [Model Training](#model-training)
@@ -140,6 +142,7 @@ Awesome list of interesting topics, including architecture design, programming d
 * [OpenHands: AI-Driven Development](https://github.com/OpenHands/OpenHands)
 * [oh-my-openagent: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode](https://github.com/code-yeongyu/oh-my-openagent)
 * [deepwiki-open: Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord](https://github.com/AsyncFuncAI/deepwiki-open)
+* [openwiki: OpenWiki is a CLI that writes and maintains agent documentation for your codebase.](https://github.com/langchain-ai/openwiki)
 * [DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)](https://github.com/HKUDS/DeepCode)
 * [goose: an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM](https://github.com/aaif-goose/goose)
 * [ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration](https://github.com/OpenBMB/ChatDev)
@@ -156,6 +159,7 @@ Awesome list of interesting topics, including architecture design, programming d
 ### Agent Tools
 * [browser-use: Make websites accessible for AI agents. Automate tasks online with ease.](https://github.com/browser-use/browser-use)
 * [OmniRoute: Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.](https://github.com/diegosouzapw/OmniRoute)
+* [DSPy: The framework for programming—not prompting—language models](https://github.com/stanfordnlp/dspy)
 
 ### Agent Memory
 * [claude-mem: Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More](https://github.com/thedotmack/claude-mem)
@@ -186,11 +190,11 @@ Awesome list of interesting topics, including architecture design, programming d
 * [Agent S: an open agentic framework that uses computers like a human](https://github.com/simular-ai/Agent-S)
 * [self-operating-computer: A framework to enable a multimodal model to operate a computer.](https://github.com/OthersideAI/self-operating-computer)
  
-### RAG 
-* [ragflow: RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs](https://github.com/infiniflow/ragflow)
-* [PageIndex: Document Index for Vectorless, Reasoning-based RAG](https://github.com/VectifyAI/PageIndex)
-* [chroma: Search infrastructure for AI](https://github.com/chroma-core/chroma)
-* [tiny-rag](https://github.com/wdndev/tiny-rag)
+ ### Media Agent
+* [Pixelle-Video: AI Fully Automated Short Video Engine](https://github.com/ATH-MaaS/Pixelle-Video)
+* [clipsketch-ai: Turn Video Moments into Hand-Drawn Stories](https://github.com/RanFeng/clipsketch-ai)
+* [AI-Media2Doc: 一键将音视频转化为小红书/公众号/知识笔记/思维导图/视频字幕等各种风格的文档](https://github.com/hanshuaikang/AI-Media2Doc)
+* [MioSub: One-stop automated subtitle generator. Handles downloading, transcription, translation, and hardcoding—zero human intervention required.](https://github.com/corvo007/MioSub)
 
 ### AI Application
 * [FinceptTerminal: FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.](https://github.com/Fincept-Corporation/FinceptTerminal)
@@ -200,16 +204,26 @@ Awesome list of interesting topics, including architecture design, programming d
 * [pentestagent: PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-team, and penetration testing workflows.](https://github.com/GH05TCREW/pentestagent)
 * [NeuroSploit: NeuroSploit is an advanced, AI-powered penetration testing framework designed to automate and augment various aspects of offensive security operations. Leveraging the capabilities of large language models (LLMs).](https://github.com/JoasASantos/NeuroSploit)
 
+### RAG 
+* [ragflow: RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs](https://github.com/infiniflow/ragflow)
+* [PageIndex: Document Index for Vectorless, Reasoning-based RAG](https://github.com/VectifyAI/PageIndex)
+* [chroma: Search infrastructure for AI](https://github.com/chroma-core/chroma)
+* [tiny-rag](https://github.com/wdndev/tiny-rag)
+
 ### MLOps
 * [netdata: The fastest path to AI-powered full stack observability, even for lean teams.](https://github.com/netdata/netdata)
 * [awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops)
 * [bisheng: An open LLM devops platform for next generation Enterprise AI applications.](https://github.com/dataelement/bisheng)
 
-### Media Agent
-* [Pixelle-Video: AI Fully Automated Short Video Engine](https://github.com/ATH-MaaS/Pixelle-Video)
-* [clipsketch-ai: Turn Video Moments into Hand-Drawn Stories](https://github.com/RanFeng/clipsketch-ai)
-* [AI-Media2Doc: 一键将音视频转化为小红书/公众号/知识笔记/思维导图/视频字幕等各种风格的文档](https://github.com/hanshuaikang/AI-Media2Doc)
-* [MioSub: One-stop automated subtitle generator. Handles downloading, transcription, translation, and hardcoding—zero human intervention required.](https://github.com/corvo007/MioSub)
+### Safety
+* [Guardrails](https://github.com/NVIDIA-NeMo/Guardrails)
+* [presidio](https://github.com/data-privacy-stack/presidio)
+
+### Evaluation
+* [deepeval: The LLM Evaluation Framework](https://github.com/confident-ai/deepeval)
+* [ragas: Supercharge Your LLM Application Evaluations](https://github.com/vibrantlabsai/ragas)
+* [SWE-bench: Can Language Models Resolve Real-world Github Issues?](https://github.com/SWE-bench/SWE-bench)
+* [harbor: Framework for evaluating and improving agents](https://github.com/harbor-framework/harbor)
 
 ### LLM inference
 * [vllm: A high-throughput and memory-efficient inference and serving engine for LLMs](https://github.com/vllm-project/vllm)
@@ -281,6 +295,7 @@ Awesome list of interesting topics, including architecture design, programming d
 * [llm-course](https://github.com/mlabonne/llm-course)
 * [generative-ai-for-beginners: 21 Lessons, Get Started Building with Generative AI](https://github.com/microsoft/generative-ai-for-beginners)
 * [llm-action](https://github.com/liguodongiot/llm-action)
+* [IBM: The 2026 Guide to AI Agents](https://www.ibm.com/think/ai-agents)
 
 ### Model Training
 * [MiniCPM](https://github.com/OpenBMB/MiniCPM)
