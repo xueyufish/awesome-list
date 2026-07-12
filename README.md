@@ -14,14 +14,14 @@ Awesome list of interesting topics, including architecture design, programming d
     - [Agent Tools](#agent-tools)
     - [Agent Memory](#agent-memory)
     - [Search Agent](#search-agent)
-    - [Test Agent](#test-agent)
+    - [Testing Agent](#testing-agent)
     - [GUI Agent](#gui-agent)
     - [RAG](#rag)
     - [AI Application](#ai-application)
     - [MLOps](#mlops)
     - [Media Agent](#media-agent)
     - [LLM inference](#llm-inference)
-    - [AI Tutorial](#ai-tutorial)
+    - [AI Learning](#ai-learning)
     - [Model Training](#model-training)
     - [Articles \& Papers](#articles--papers)
     - [AI Interview](#ai-interview)
@@ -168,7 +168,7 @@ Awesome list of interesting topics, including architecture design, programming d
 * [storm: An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.](https://github.com/stanford-oval/storm)
 * [DeepResearchAgent: DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general-purpose task solving. The framework leverages a top-level planning agent to coordinate multiple specialized lower-level agents, enabling automated task decomposition and efficient execution across diverse and complex domains.](https://github.com/SkyworkAI/DeepResearchAgent)
   
-### Test Agent
+### Testing Agent
 * [pythagora: Generate automated tests for your Node.js app via LLMs without developers having to write a single line of code.](https://github.com/Pythagora-io/pythagora)
 * [strix: Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.](https://github.com/usestrix/strix)
 * [metersphere: 新一代的开源持续测试工具，内置 AI 助手，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈](https://github.com/metersphere/metersphere)
@@ -220,7 +220,13 @@ Awesome list of interesting topics, including architecture design, programming d
 * [sglang: SGLang is a high-performance serving framework for large language models and multimodal models.](https://github.com/sgl-project/sglang)
 * [TensorRT-LLM: TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.](https://github.com/NVIDIA/TensorRT-LLM)
 
-### AI Tutorial
+### AI Learning
+* [Claude Platform Docs](https://platform.claude.com/docs/en/home)
+* [OpenAI for developers](https://developers.openai.com/)
+* [Google AI for Developers](https://ai.google.dev/gemini-api/docs)
+* [SpaceXAI Docs](https://docs.x.ai/overview)
+* [LangChain Docs](https://docs.langchain.com/)
+* [LlamaIndex](https://developers.llamaindex.ai/)
 * [minbpe: Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.](https://github.com/karpathy/minbpe)
 * [claude-code-in-action](https://anthropic.skilljar.com/claude-code-in-action)
 * [Transformers快速入门](https://transformers.run/)
@@ -263,11 +269,24 @@ Awesome list of interesting topics, including architecture design, programming d
 * [多AI智能体实践与高级应用课程](https://www.bilibili.com/video/BV1fgySYsE5y)
 * [ChatGPT提示工程师](https://www.youtube.com/watch?v=gCbHoXL2IcA)
 * [吴恩达Agent智能体教程](https://www.bilibili.com/video/BV1DfrdByE2H)
+* [Generative AI for Everyone](https://www.deeplearning.ai/courses/generative-ai-for-everyone)
+* [LLM 系列课程（吴恩达）](https://learn.deeplearning.ai/)
+* [CS25: Transformers United V6](https://web.stanford.edu/class/cs25/)
+* [CS224N: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
+* [CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/)
+* [CMU CS 11-711: Advanced NLP](https://www.phontron.com/class/anlp2024/lectures/)
+* [COS 597G (Fall 2022): Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
+* [awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources)
+* [llm-universe](https://github.com/datawhalechina/llm-universe)
+* [llm-course](https://github.com/mlabonne/llm-course)
+* [generative-ai-for-beginners: 21 Lessons, Get Started Building with Generative AI](https://github.com/microsoft/generative-ai-for-beginners)
+* [llm-action](https://github.com/liguodongiot/llm-action)
 
 ### Model Training
 * [MiniCPM](https://github.com/OpenBMB/MiniCPM)
 * [tiny-llm-zh: 从零实现一个小参数量中文大语言模型](https://github.com/wdndev/tiny-llm-zh)
 * [llama3-from-scratch-zh: 从零实现一个 llama3 中文版](https://github.com/wdndev/llama3-from-scratch-zh)
+* [minimind](https://github.com/jingyaogong/minimind)
 
 ### Articles & Papers
 * [The Illustrated GPT-2 (Visualizing Transformer Language Models)](https://jalammar.github.io/illustrated-gpt2/)
@@ -277,6 +296,12 @@ Awesome list of interesting topics, including architecture design, programming d
 * [人人都能看懂的RL-PPO理论知识](https://zhuanlan.zhihu.com/p/7461863937)
 * [PPO & GRPO 可视化介绍](https://zhuanlan.zhihu.com/p/24374300521)
 * [Prompt-Tuning——深度解读一种新的微调范式](https://zhuanlan.zhihu.com/p/619566088)
+* [Long Short-Term Memory, LSTM](https://arxiv.org/pdf/1506.04214.pdf)
+* [LeNet](https://www.jiqizhixin.com/graph/technologies/6c9baf12-1a32-4c53-8217-8c9f69bd011b)
+* [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)
+* [VGGNet](https://arxiv.org/pdf/1409.1556.pdf)
+* [Conditional GAN, CGAN](https://arxiv.org/abs/1411.1784)
+* [Deep Convolutional GAN, DCGAN](https://arxiv.org/abs/1511.06434)
 
 ### AI Interview
 * [one-small-step: 这是一个简单的技术科普教程项目，主要聚焦于解释一些有趣的，前沿的技术概念和原理。每篇文章都力求在 5 分钟内阅读完成](https://github.com/karminski/one-small-step)
