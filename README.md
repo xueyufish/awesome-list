@@ -95,7 +95,9 @@ Awesome list of interesting topics, including architecture design, programming d
 * [Perplexity](https://www.perplexity.ai/)
 
 ### AI Agent
+* [OpenAI Agents SDK: A lightweight, powerful framework for multi-agent workflows](https://github.com/openai/openai-agents-python)
 * [CrewAI: Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.](https://github.com/crewAIInc/crewAI)
+* [autogen: A programming framework for agentic AI](https://github.com/microsoft/autogen)
 * [MetaGPT: The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming](https://github.com/FoundationAgents/MetaGPT)
 * [AutoGPT: AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.](https://github.com/Significant-Gravitas/AutoGPT)
 * [anything-llm: Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience](https://github.com/Mintplex-Labs/anything-llm)
