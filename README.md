@@ -301,6 +301,7 @@ Awesome list of interesting topics, including architecture design, programming d
 * [generative-ai-for-beginners: 21 Lessons, Get Started Building with Generative AI](https://github.com/microsoft/generative-ai-for-beginners)
 * [llm-action](https://github.com/liguodongiot/llm-action)
 * [IBM: The 2026 Guide to AI Agents](https://www.ibm.com/think/ai-agents)
+* [Google: Build Multi-Agent Systems with ADK](https://codelabs.developers.google.com/codelabs/production-ready-ai-with-gc/3-developing-agents/build-a-multi-agent-system-with-adk)
 
 ### Model Training
 * [MiniCPM](https://github.com/OpenBMB/MiniCPM)
