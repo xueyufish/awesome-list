@@ -97,6 +97,8 @@ Awesome list of interesting topics, including architecture design, programming d
 ### AI Agent
 * [OpenAI Agents SDK: A lightweight, powerful framework for multi-agent workflows](https://github.com/openai/openai-agents-python)
 * [CrewAI: Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.](https://github.com/crewAIInc/crewAI)
+* [Google Agent Development Kit](https://github.com/google/adk-python)
+* [LangGraph: Build resilient agents.](https://github.com/langchain-ai/langgraph)
 * [autogen: A programming framework for agentic AI](https://github.com/microsoft/autogen)
 * [MetaGPT: The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming](https://github.com/FoundationAgents/MetaGPT)
 * [AutoGPT: AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.](https://github.com/Significant-Gravitas/AutoGPT)
@@ -162,6 +164,7 @@ Awesome list of interesting topics, including architecture design, programming d
 * [browser-use: Make websites accessible for AI agents. Automate tasks online with ease.](https://github.com/browser-use/browser-use)
 * [OmniRoute: Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.](https://github.com/diegosouzapw/OmniRoute)
 * [DSPy: The framework for programming—not prompting—language models](https://github.com/stanfordnlp/dspy)
+* [CubeSandbox: Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.](https://github.com/tencentcloud/CubeSandbox)
 
 ### Agent Memory
 * [claude-mem: Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More](https://github.com/thedotmack/claude-mem)
