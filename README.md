@@ -302,12 +302,14 @@ Awesome list of interesting topics, including architecture design, programming d
 * [llm-action](https://github.com/liguodongiot/llm-action)
 * [IBM: The 2026 Guide to AI Agents](https://www.ibm.com/think/ai-agents)
 * [Google: Build Multi-Agent Systems with ADK](https://codelabs.developers.google.com/codelabs/production-ready-ai-with-gc/3-developing-agents/build-a-multi-agent-system-with-adk)
+* [DeepLearning.AI: Agentic AI](https://www.deeplearning.ai/courses/agentic-ai )
 
 ### Model Training
 * [MiniCPM](https://github.com/OpenBMB/MiniCPM)
 * [tiny-llm-zh: 从零实现一个小参数量中文大语言模型](https://github.com/wdndev/tiny-llm-zh)
 * [llama3-from-scratch-zh: 从零实现一个 llama3 中文版](https://github.com/wdndev/llama3-from-scratch-zh)
 * [minimind](https://github.com/jingyaogong/minimind)
+* [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)
 
 ### Articles & Papers
 * [The Illustrated GPT-2 (Visualizing Transformer Language Models)](https://jalammar.github.io/illustrated-gpt2/)
